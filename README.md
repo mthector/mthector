@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hector</h1>
 <h3 align="center">A passionate Sys Administrator from Spain</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mthector" alt="mthector" /></a> </p>
-
 - 🔭 I’m currently working on **Mainframe Systems Administrator**
 
 - 🌱 I’m currently learning **Programming Languages, Cloud Computing Courses...**
