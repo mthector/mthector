@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Programming Languages, Cloud Computing Courses...**
 
-- 💬 Ask me about **docker, kubernetes**
+- 💬 Ask me about **docker, kubernetes, mainframe**
 
 - 📫 How to reach me **mthector1@gmail.com**
 
