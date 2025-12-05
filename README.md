@@ -6,6 +6,8 @@ Soy un **Administrador de Sistemas Linux** con amplia experiencia en infraestruc
 
 ### 📜 Certificaciones
 
+- ✅ **CCNAv7: Introduction to Networks**
+- ✅ **CCNAv7: Switching, Routing, and Wireless Essentials**
 - ✅ **Microsoft Certified: Azure Administrator Associate (AZ-104)**
 - 🎯 En preparación: **Red Hat Certified System Administrator (RHCSA)**
 - 🎯 En preparación: **Azure Solutions Architect Expert (AZ-305)**
