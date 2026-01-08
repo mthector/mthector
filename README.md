@@ -9,8 +9,8 @@ I am a **Linux Systems Administrator** with extensive experience in enterprise i
 - ✅ **CCNAv7: Introduction to Networks**
 - ✅ **CCNAv7: Switching, Routing, and Wireless Essentials**
 - ✅ **Microsoft Certified: Azure Administrator Associate (AZ-104)**
+- ✅ **Azure Solutions Architect Expert (AZ-305)**
 - 🎯 In preparation: **Red Hat Certified System Administrator (RHCSA)**
-- 🎯 In preparation: **Azure Solutions Architect Expert (AZ-305)**
 - 🎯 In preparation: **Terraform Associate (003, 004)**
 
 ## 💻 Tech Stack
