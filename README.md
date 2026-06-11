@@ -1,12 +1,20 @@
 <div align="center">
 
-# 🚀 Hector Tudela Morales — Personal Portfolio
+# 🚀 Hector Tudela Morales
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+### SysAdmin / DevOps · 23 years old · Granada, Spain 🇪🇸
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hectortudelamorales/)
 
 </div>
+
+---
+
+## 👨‍💻 About Me
+
+Passionate technology professional with a solid background in IT infrastructure and systems administration. My career combines expertise in **cloud computing**, **virtualization**, and **automation**, backed by globally recognized certifications such as **Azure Solutions Architect Expert**, **Cisco CCNA**, and **Terraform Associate**.
+
+I stand out for my ability to solve complex problems, implement scalable solutions, and maintain critical systems with high availability standards. Constantly seeking new challenges that allow me to grow professionally and add value to dynamic work teams.
 
 ---
 
@@ -46,9 +54,32 @@
 
 ---
 
-## 📬 Contact
+## 💡 Soft Skills
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hectortudelamorales/)
+<div align="center">
+
+🚀 Enthusiastic · 🛡️ Responsible · ⏰ Punctual · 🤝 Team Player · 🧩 Problem Solver · 📚 Fast Learner
+
+🔄 Adaptable · 🔍 Detail-Oriented · 🧠 Critical Thinker · 💪 Self-Motivated · 💬 Communication · 📅 Time Management
+
+</div>
+
+---
+
+## 🌍 Languages
+
+| Language | Level |
+|---|---|
+| 🇪🇸 Spanish | Native |
+| 🇬🇧 English | Limited Working Proficiency |
+| 🇮🇹 Italian | Basic |
+
+---
+
+## 🎓 Education
+
+**Higher Degree in Computer Systems and Network Administration (ASIR)**
+IES Padre Poveda — Guadix, Granada
 
 ---
 
@@ -57,4 +88,3 @@
 Made with ❤️ by **Hector Tudela Morales** · © 2026
 
 </div>
-
