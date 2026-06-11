@@ -10,16 +10,6 @@
 
 ---
 
-## ✨ Features
-
-- 🌗 **Dark / Light Theme** — Toggle between themes with preferences saved in localStorage
-- 💬 **Interactive Chat Widget** — Visitors can ask predefined questions and get instant answers
-- 📱 **Fully Responsive** — Optimized for desktop, tablet, and mobile devices
-- 🎨 **Code-Themed Design** — Developer-style aesthetics with syntax-highlighted hero section
-- ⚡ **Smooth Animations** — Micro-interactions and transitions for a premium feel
-
----
-
 ## 🏅 Certifications
 
 ### ✅ Obtained
@@ -59,7 +49,6 @@
 ## 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hectortudelamorales/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mthector)
 
 ---
 
