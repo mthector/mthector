@@ -10,8 +10,11 @@ I am a **Linux Systems Administrator** with extensive experience in enterprise i
 - ✅ **CCNAv7: Switching, Routing, and Wireless Essentials**
 - ✅ **Microsoft Certified: Azure Administrator Associate (AZ-104)**
 - ✅ **Azure Solutions Architect Expert (AZ-305)**
-- 🎯 In preparation: **Red Hat Certified System Administrator (RHCSA)**
-- 🎯 In preparation: **Terraform Associate (003, 004)**
+- ✅ **Terraform Associate (004)**
+- 🎯 In preparation: **Red Hat Certified System Administrator (EX200)**
+- 🎯 In preparation: **Red Hat Certified System Administrator in OpenShift (EX280)**
+- 🎯 In preparation: **Microsoft DevOps Solutions (AZ-400)**
+
 
 ## 💻 Tech Stack
 
@@ -45,11 +48,6 @@ I am a **Linux Systems Administrator** with extensive experience in enterprise i
 ### 🔧 Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📚 Currently Learning
-
-- **RHCSA**: Deepening knowledge in advanced Red Hat Enterprise Linux system administration
-- **Terraform**: Infrastructure automation as code
-- **AZ-305**: Azure solutions architecture
 
 ## 📫 Contact
 
